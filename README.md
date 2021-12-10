@@ -1,6 +1,6 @@
 Nft-game Smart Contract
 
-This is the smart contract for the "Hero Warriors" NFT game.
+This is the smart contract for the "Hero Warriors" NFT game. This is a game where users choose the hero they want to mint and take it into battle against the boss. The characters are from the mobile/FB game Hero Wars by Nexters Global.
 
 ### Links
 
